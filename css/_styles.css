@@ -1,0 +1,21 @@
+#col_1 {
+    height: 400px;
+    background-color: rosybrown;
+    border-right: solid 3px;
+    border-bottom: solid 3px;
+}
+#col_2 {
+    height: 400px;
+    background-color: greenyellow;
+    border-right: solid 3px;
+    border-bottom: solid 3px;
+}
+#col_3 {
+    height: 400px;
+    background-color: goldenrod;
+    border-bottom: solid 3px;
+}
+
+#restartBtn {
+    margin-right: 10px;
+}
