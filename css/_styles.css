@@ -1,6 +1,6 @@
 #col_1 {
     height: 600px;
-    background-color: rosybrown;
+    background-image: url("../images/grass_background.png");
 }
 #col_2 {
     height: 600px;
@@ -13,4 +13,9 @@
 
 #restartBtn {
     margin-right: 10px;
+}
+
+#grassTile {
+    margin-top: 100px;
+    margin-bottom: 30px;
 }
