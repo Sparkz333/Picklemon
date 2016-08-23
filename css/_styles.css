@@ -16,6 +16,12 @@
 }
 
 #grassTile {
-    margin-top: 100px;
+    margin-top: 80px;
     margin-bottom: 30px;
+}
+
+#pickleDollars {
+    margin-top: 100px;
+    font-size: 22pt;
+    color: rgb(100,100,100);
 }
